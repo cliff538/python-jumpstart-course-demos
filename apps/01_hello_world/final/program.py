@@ -1,6 +1,8 @@
-print('--------------------------------')
-print('          WELCOME TO MY APP')
-print('--------------------------------')
+__VERSION__ = "2.0"
+
+print('---------------------------------')
+print(f'     WELCOME TO MY APP v{__VERSION__}')
+print('---------------------------------')
 print()
 
 user_text = input('What is your name? ')
