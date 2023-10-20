@@ -1,5 +1,5 @@
 print('--------------------------------')
-print('          HELLO APP')
+print('          WELCOME APP')
 print('--------------------------------')
 print()
 
